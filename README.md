@@ -19,8 +19,6 @@ credit-card-fraud-detection/
 │   └─ train_models.py                      # reproducible training pipeline
 ├─ data/
 │   └─ README.md                            # where to place `crowd.csv`
-├─ reports/
-│   └─ figures/                             # optional: saved plots
 ├─ requirements.txt
 ├─ README.md
 └─ .gitignore
